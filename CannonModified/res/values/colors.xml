@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ 
+    <item name="t1" type="color">#000000</item>
+    <item name="t2" type="color">#880015</item>
+    <item name="t3" type="color">#00A2E8</item>
+    <item name="t4" type="color">#FFAEC9</item>
+    <item name="t5" type="color">#22B14C</item>
+    <item name="t6" type="color">#A349A4</item>
+ 
+</resources> 
